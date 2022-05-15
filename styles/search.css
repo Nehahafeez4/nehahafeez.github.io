@@ -5,7 +5,7 @@
 }
 
 .worldContainer {
-    background-image: url("images/globe.jpg");
+    background-image: url("images/pic1.jpg");
     height: 700px;
     width: 100vw;
     align-items: center;
@@ -82,7 +82,7 @@ ul {
 
 li {
     list-style: none;
-    background-image: url("images/globe.jpg");
+    background-image: url("images/pic1.jpg");
     background-position: center;
     /* Center the image */
     background-repeat: no-repeat;
